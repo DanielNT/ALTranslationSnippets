@@ -6,7 +6,7 @@ A collection of useful configurable snippets for multi-language localization of 
 
 ![Example of developer comments](https://i.ibb.co/ZTbGhC2/example-Label.png)
 
-![Example of use](https://i.ibb.co/9qvJqTd/UseofATS.gif")
+![Example of use](https://github.com/DanielNT/AlTranslationSnippets/assets/12068767/268de838-9d28-4bf0-b5a8-f84b95fb36c8)
 
 ## Requirements
 - Visual Studio Code v1.56.0 (April 2021) or higher.
@@ -28,3 +28,4 @@ A collection of useful configurable snippets for multi-language localization of 
 
 ## Issues
 - You can report an issue at https://github.com/DanielNT/ALTranslationSnippets/issues.
+
