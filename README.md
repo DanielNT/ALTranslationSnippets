@@ -28,6 +28,8 @@ A collection of useful **configurable** snippets for multi-language localization
 - `ttoolTipWithTranslation`  
 - `tlabelWithTranslation`  
 - `toptionCaptionWithTranslation`  
+- `tprofileWithTranslation` (for Runtime +4.0)  
+- `tprofileDescriptionWithTranslation`  
 - `tactionWithTranslation`  
 - `tcommentWithTranslation`  
 - `taboutTitleWithTranslation`  
