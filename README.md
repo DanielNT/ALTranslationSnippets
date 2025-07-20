@@ -4,7 +4,7 @@
 
 A collection of useful **configurable** snippets for multi-language localization of text strings in AL Language, using the `developer comments`.
 
-![Example of developer comments](https://i.ibb.co/ZTbGhC2/example-Label.png)
+![Example of developer comments](https://github.com/user-attachments/assets/c77c77ba-8939-43ce-a9ea-ab2c127d2538)
 
 ![Example of use](https://github.com/DanielNT/AlTranslationSnippets/assets/12068767/268de838-9d28-4bf0-b5a8-f84b95fb36c8)
 
